@@ -77,9 +77,9 @@ jQuery(function($) {
             thumb_links: 0, // Individual thumb links for each slide
             thumbnail_navigation: 0, // Thumbnail navigation
             slides: [ // Slideshow Images
-                { image: '_include/img/slider-images/image01.jpg', title: '<div class="slide-content">JIB PROJETOS</div>', thumb: '', url: '' },
-                { image: '_include/img/slider-images/image02.jpg', title: '<div class="slide-content">JIB PROJETOS</div>', thumb: '', url: '' },
-                { image: '_include/img/slider-images/image03.jpg', title: '<div class="slide-content">JIB PROJETOS</div>', thumb: '', url: '' }
+                { image: 'img/slider-images/image01.jpg', title: '<div class="slide-content">JIB PROJETOS</div>', thumb: '', url: '' },
+                { image: 'img/slider-images/image02.jpg', title: '<div class="slide-content">JIB PROJETOS</div>', thumb: '', url: '' },
+                { image: 'img/slider-images/image03.jpg', title: '<div class="slide-content">JIB PROJETOS</div>', thumb: '', url: '' }
             ],
 
             // Theme Options			   
